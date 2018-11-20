@@ -25,7 +25,7 @@
 * [Замороженные множества](3. Built-in types and the simplest operations on them.md#10-замороженные-множества)
 * [Вложенные списки (матрицы)](3. Built-in types and the simplest operations on them.md#11-вложенные-списки-матрицы)
 * [Практическая работа](3. Built-in types and the simplest operations on them.md#12-практическая-работа)
-## 4.  Функции и файловая системы
+## 4.  [Функции и файловая система](4. Functions and file system.md)
 * Понятие функции
 * Роль функции в программировании
 * Встроенные функции интерпретатора Python
