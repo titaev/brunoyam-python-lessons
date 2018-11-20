@@ -13,18 +13,18 @@
     * Ветвление (if … else …), тернарный оператор (x = a if … else …)
     * Циклы (for)
 ## 3.  [Встроенные типы и простейшие операции над ними](3. Built-in types and the simplest operations on them.md)
-    * Коллекции
-    * Последовательности (итераторы)
-    * Изменяемые и неизменяемые объекты
-    * Отображения
-    * Строки
-    * Cписки
-    * Кортежи
-    * Словари
-    * Множества
-    * Замороженные множества
-    * Вложенные списки (матрицы)
-    * Практическая работа
+    * [Коллекции](3. Built-in types and the simplest operations on them.md#1-коллекции)
+    * [Последовательности (итераторы)](3. Built-in types and the simplest operations on them.md#2-последовательности-итераторы)
+    * [Изменяемые и неизменяемые объекты](3. Built-in types and the simplest operations on them.md#3-изменяемые-и-неизменяемые-объекты)
+    * [Отображения](3. Built-in types and the simplest operations on them.md#4-отображения)
+    * [Строки](3. Built-in types and the simplest operations on them.md#5-строки)
+    * [Cписки](3. Built-in types and the simplest operations on them.md#6-списки)
+    * [Кортежи](3. Built-in types and the simplest operations on them.md#7-кортежи)
+    * [Словари](3. Built-in types and the simplest operations on them.md#8-словари)
+    * [Множества](3. Built-in types and the simplest operations on them.md#9-множества)
+    * [Замороженные множества](3. Built-in types and the simplest operations on them.md#10-замороженные-множества)
+    * [Вложенные списки (матрицы)](3. Built-in types and the simplest operations on them.md#11-вложенные-списки-матрицы)
+    * [Практическая работа](3. Built-in types and the simplest operations on them.md#12-практическая-работа)
 ## 4.  Функции и файловая системы
     * Понятие функции
     * Роль функции в программировании
