@@ -28,7 +28,7 @@
 ## 4.  [Функции и файловая система](4. Functions and file system.md)
 * [Понятие функции](4. Functions and file system.md#1-понятие-функции)
 * [Роль функции в программировании](4. Functions and file system.md#2-роль-функции-в-программировании)
-* [Встроенные функции интерпретатора Python](4. Functions and file system.md#3-встроенные-функции-интерпритатора-python)
+* [Встроенные функции интерпретатора Python](4. Functions and file system.md#3-встроенные-функции-интерпретатора-python)
 * [Scope (область видимости)](4. Functions and file system.md#4-scope-область-видимости)
 * [Функции](4. Functions and file system.md#5-функции)
 * [Передача параметров по ссылке и по значению](4. Functions and file system.md#6-передача-параметров-по-ссылке-и-по-значению)
