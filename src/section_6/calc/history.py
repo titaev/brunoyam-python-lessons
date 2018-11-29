@@ -10,7 +10,7 @@ def load(filename):
         line = line.rstrip().split(" ")
         dct = {
             "action": line[0],
-            "args": [float(arg) for arg in line[1:-2]],
+            "args": [float(arg) for arg in line[1:-1]],
             "result": float(line[-1]),
         }
         history.append(dct)
@@ -27,7 +27,7 @@ def save(filename):
     f.close()
 
 # Добавление в историю
-def history_append(action, result, *args):
+def append(action, result, *args):
     dct = {
         "action": action,
         "args": args,
