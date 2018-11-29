@@ -41,11 +41,11 @@
 * [Синтаксис регулярных выражений в Python](5. Regular expressions.md#2-синтаксис-регулярных-выражений-в-python)
 * [Использование регулярных выражений в Python](5. Regular expressions.md#3-использование-регулярных-выражений-в-python)
 * [Практическая работа](5. Regular expressions.md#4-практическая-работа)
-## 6.  Изолированное окружение, пакеты, модули, библиотеки
-* Менеджер пакетов (pip), Virtualenv, Pipenv
-* Модули, пакеты и стандартные библиотеки
-* Модули os, sys
-* Практическая работа
+## 6.  [Изолированное окружение, пакеты, модули, библиотеки](6. Isolated environment, packages, modules, libraries.md)
+* [Менеджер пакетов (pip), Virtualenv, Pipenv](6. Isolated environment, packages, modules, libraries.md#1-менеджер-пакетов-pip-virtualenv-pipenv)
+* [Модули, пакеты и стандартные библиотеки](6. Isolated environment, packages, modules, libraries.md#2-модули-пакеты-и-стандартные-библиотеки)
+* [Модули os, sys](6. Isolated environment, packages, modules, libraries.md#3-модули-os-sys)
+* [Практическая работа](6. Isolated environment, packages, modules, libraries.md#4-практическая-работа)
 ## 7.  ООП
 * Базовые понятия, предпосылки и история
 * Класс, экземпляр класса, атрибуты, поведение
