@@ -57,7 +57,7 @@
 * [Практическое занятие](7. OOP.md#8-практическое-занятие)
 ## 8.  [Обработка исключений, паттерны проектирования](8. Processing exclusions, design patterns.md)
 * [Понятие исключения](8. Processing exclusions, design patterns.md#1-понятие-исключения)
-* [Выброс и перехват исключения]((8. Processing exclusions, design patterns.md#2-выброс-и-перехват-исключения)
+* [Выброс и перехват исключения](8. Processing exclusions, design patterns.md#2-выброс-и-перехват-исключения)
 * [Стандартные исключения](8. Processing exclusions, design patterns.md#3-стандартные-исключения)
 * [Паттерны проектирования - общие понятия](8. Processing exclusions, design patterns.md#4-паттерны-проектирования-обшие-понятия)
 * [Фабрика, Синглтон, Декоратор, Адаптер](8. Processing exclusions, design patterns.md#5-фабрика-синглтон-декоратор-адаптер)
