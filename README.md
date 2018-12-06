@@ -60,7 +60,7 @@
 * [Выброс и перехват исключения]((8. Processing exclusions, design patterns.md#2-выброс-и-перехват-исключения)
 * [Стандартные исключения](8. Processing exclusions, design patterns.md#3-стандартные-исключения)
 * [Паттерны проектирования - общие понятия](8. Processing exclusions, design patterns.md#4-паттерны-проектирования-обшие-понятия)
-* [Фабрика, Синглтон, Декоратор, Адаптер]((8. Processing exclusions, design patterns.md#5-фабрика-синглтон-декоратор-адаптер)
+* [Фабрика, Синглтон, Декоратор, Адаптер](8. Processing exclusions, design patterns.md#5-фабрика-синглтон-декоратор-адаптер)
 * [Практическое занятие](8. Processing exclusions, design patterns.md#6-практическое-занятие)
 ## 9.  Хранение и передача данных
 * Сериализация, десериализация
