@@ -62,12 +62,12 @@
 * [Паттерны проектирования - общие понятия](8. Processing exclusions, design patterns.md#4-паттерны-проектирования-общие-понятия)
 * [Фабрика, Синглтон, Декоратор, Адаптер](8. Processing exclusions, design patterns.md#5-фабрика-синглтон-декоратор-адаптер)
 * [Практическое занятие](8. Processing exclusions, design patterns.md#6-практическое-занятие)
-## 9.  Хранение и передача данных
-* Сериализация, десериализация
-* Pickle
-* JSON, JSON-RPC
-* YAML
-* Практическая работа
+## 9.  [Хранение и передача данных](9. Storage and transmission data.md)
+* [Сериализация, десериализация](9. Storage and transmission data.md#1-сериализация-десериализация)
+* [Pickle](9. Storage and transmission data.md#2-pickle)
+* [JSON, JSON-RPC](9. Storage and transmission data.md#3-json-json-rpc)
+* [YAML](9. Storage and transmission data.md#4-yaml)
+* [Практическая работа](9. Storage and transmission data.md#5-практическая-работа)
 ## 10. Базовые алгоритмы
 * Основные алгоритмы
 * Понятие сложности алгоритма
