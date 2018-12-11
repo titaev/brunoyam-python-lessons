@@ -12,7 +12,6 @@ dictionary = {
     "float": 34.5,
     "list": ["field1", 2, 3.75, "field4"],
     "tuple": ("field1", 2, 3.75, "field4"),
-    "set": {"field1", 2, 3.75, "field4"},
 }
 
 # Имея 3 объекта (Class, obj, dictionary), вывести их на экран и  сериализовать (сохранить) их с помощью pickle, json, yaml в файлы "test.pk", "test.json", "test.yml" соответственно.
