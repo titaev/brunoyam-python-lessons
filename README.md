@@ -17,7 +17,7 @@
 * [Самостоятельная работа](2. Built-in types and the simplest operations on them.md#6-самостоятельная-работа)
 * [Отображения](2. Built-in types and the simplest operations on them.md#7-отображения)
 * [Вложенные списки (матрицы)](2. Built-in types and the simplest operations on them.md#8-вложенные-списки-матрицы)
-* [Домашнее задание](2. Built-in types and the simplest operations on them.md#9-практическая-работа)
+* [Домашнее задание](2. Built-in types and the simplest operations on them.md#9-домашнее-задание)
 ## 4.  [Функции и файловая система](4. Functions and file system.md)
 * [Понятие функции](4. Functions and file system.md#1-понятие-функции)
 * [Роль функции в программировании](4. Functions and file system.md#2-роль-функции-в-программировании)
