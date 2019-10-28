@@ -43,66 +43,61 @@ them.md#7-вложенные-списки-матрицы)
 
 * [Понятие функции](4. Functions.md#1-понятие-функции)
 * [Роль функции в программировании](4. Functions.md#2-роль-функции-в-программировании)
-* [Встроенные функции интерпретатора Python](4. Functions.md#3-встроенные-функции-интерпретатора-python)
+* [Встроенные функции интерпретатора Python](4.
+Functions.md#3-встроенные-функции-интерпретатора-python)
 * [Функции](4. Functions.md#4-функции)
 * [Рекурсия](4. Functions.md#5-рекурсия)
 * [Scope (область видимости)](4. Functions.md#6-scope-область-видимости)
-* [Передача параметров по ссылке и по значению](4. Functions.md#7-передача-параметров-по-ссылке-и-по-значению)
-* [Генераторы (yield), итераторы (подробнее)](4. Functions.md#8-генераторы-yield-итераторы-подробнее)
-* [Лямбда-функции, анонимные функции](4. Functions.md#9-лямбда-функции-анонимные-функции)
-* [Самостоятельная работа](4. Functions.md#10-самостоятельная-работа)
-* [Домашняя работа](4. Functions.md#11-домашняя-работа)
+* [Передача изменяемых параметров](4. Functions.md#7-передача-изменяемых-параметров)
+* [Лямбда-функции, анонимные функции](4. Functions.md#8-лямбда-функции-анонимные-функции)
+* [Самостоятельная работа](4. Functions.md#9-самостоятельная-работа)
+* [Домашняя работа](4. Functions.md#10-домашняя-работа)
 
-## 5.  [Файловый ввод-вывод, сериализация/десериализация]
+## 5.  [Изолированное окружение, пакеты, модули, библиотеки](5. Isolated environment, packages, modules, libraries.md)
 
-* [Работа с файлами и файловой системой (чтение из файла, запись в файл)](5. File input-output,
-serialization, deserialization#1-работа-с-файлами-и-файловой-системой-чтение-из-файла-запись-в-файл)
-* [Оператор контекста with](5. File input-output, serialization,
+* [Модули, пакеты и стандартные библиотеки](5. Isolated environment, packages, modules,
+libraries.md#1-модули-пакеты-и-стандартные-библиотеки)
+* [Модули os, sys](5. Isolated environment, packages, modules,
+libraries.md#2-модули-os-sys)
+* [Менеджер пакетов pip, virtualenv, pipenv](5. Isolated environment, packages, modules,
+libraries.md#3-менеджер-пакетов-pip-virtualenv-pipenv)
+* [Домашняя работа](5. Isolated environment, packages, modules,
+libraries.md#4-домашняя-работа)
+
+## 6.  [Файловый ввод-вывод, сериализация/десериализация](6. File system, serialization, deserialization.md)
+
+* [Работа с файлами](6. File input-output, serialization, deserialization#1-работа-с-файлами)
+* [Оператор контекста with](6. File input-output, serialization,
 deserialization.md#2-оператор-контекста-with)
-* [Домашняя работа](5. File input-output, serialization, deserialization.md#13-домашняя-работа)
+* [Сериализация, десериализация](6. File input-output, serialization,
+deserialization.md#3-сериализация-десериализация)
+* [Домашняя работа](6. File input-output, serialization, deserialization.md#4-домашняя-работа)
 
-## 5.  [Регулярные выражения](5. Regular expressions.md)
+## 7.  [Регулярные выражения](7. Regular expressions.md)
 
-* [Понятие регулярного выражения](5. Regular expressions.md#1-понятие-регулярного-выражения)
-* [Синтаксис регулярных выражений в Python](5. Regular expressions.md#2-синтаксис-регулярных-выражений-в-python)
-* [Использование регулярных выражений в Python](5. Regular expressions.md#3-использование-регулярных-выражений-в-python)
-* [Самостоятельная работа](5. Regular expressions.md#4-самостоятельная-работа)
-* [Домашняя работа](5. Regular expressions.md#5-домашняя-работа)
+* [Понятие регулярного выражения](7. Regular expressions.md#1-понятие-регулярного-выражения)
+* [Синтаксис регулярных выражений в Python](7. Regular
+expressions.md#2-синтаксис-регулярных-выражений-в-python)
+* [Использование регулярных выражений в Python](7. Regular
+expressions.md#3-использование-регулярных-выражений-в-python)
+* [Самостоятельная работа](7. Regular expressions.md#4-самостоятельная-работа)
+* [Домашняя работа](7. Regular expressions.md#5-домашняя-работа)
 
-## 6.  [Изолированное окружение, пакеты, модули, библиотеки](6. Isolated environment, packages, modules, libraries.md)
+## 8.  [Объектно-ориентированное программирование](8. OOP.md)
 
-* [Менеджер пакетов (pip), Virtualenv, Pipenv](6. Isolated environment, packages, modules, libraries.md#1-менеджер-пакетов-pip-virtualenv-pipenv)
-* [Модули, пакеты и стандартные библиотеки](6. Isolated environment, packages, modules, libraries.md#2-модули-пакеты-и-стандартные-библиотеки)
-* [Модули os, sys](6. Isolated environment, packages, modules, libraries.md#3-модули-os-sys)
-* [Практическая работа](6. Isolated environment, packages, modules, libraries.md#4-практическая-работа)
+* [Базовые понятия, предпосылки и история](8. OOP.md#1-базовые-понятия-предпосылки-и-история)
+* [Класс, экземпляр класса, атрибуты, поведение](8.
+OOP.md#2-класс-экземпляр-класса-атрибуты-поведение)
+* [Наследование](8. OOP.md#3-наследование)
+* [Двойное наследование](8. OOP.md#4-двойное-наследование)
+* [Полиморфизм](8. OOP.md#4-полиморфизм)
 
-## 7.  [ООП](7. OOP.md)
-
-* [Базовые понятия, предпосылки и история](7. OOP.md#1-базовые-понятия-предпосылки-и-история)
-* [Класс, экземпляр класса, атрибуты, поведение](7. OOP.md#2-класс-экземпляр-класса-атрибуты-поведение)
-* [Наследование](7. OOP.md#3-наследование)
-* [Полиморфизм](7. OOP.md#4-полиморфизм)
-* [Инкапсуляция](7. OOP.md#5-инкапсуляция)
-* [Абстракция](7. OOP.md#6-абстракция)
-* [Интерфейсы и абстрактные классы](7. OOP.md#7-интерфейсы-и-абстрактные-классы)
-* [Практическое занятие](7. OOP.md#8-практическое-занятие)
-
-## 8.  [Обработка исключений, паттерны проектирования](8. Processing exclusions, design patterns.md)
+## 9.  [Обработка исключений, паттерны проектирования](8. Processing exclusions, design patterns.md)
 
 * [Понятие исключения](8. Processing exclusions, design patterns.md#1-понятие-исключения)
-* [Выброс и перехват исключения](8. Processing exclusions, design patterns.md#2-выброс-и-перехват-исключения)
+* [Выброс и перехват исключения](8. Processing exclusions, design
+patterns.md#2-выброс-и-перехват-исключения)
 * [Стандартные исключения](8. Processing exclusions, design patterns.md#3-стандартные-исключения)
-* [Паттерны проектирования - общие понятия](8. Processing exclusions, design patterns.md#4-паттерны-проектирования-общие-понятия)
-* [Фабрика, Синглтон, Декоратор, Адаптер](8. Processing exclusions, design patterns.md#5-фабрика-синглтон-декоратор-адаптер)
-* [Практическое занятие](8. Processing exclusions, design patterns.md#6-практическое-занятие)
-
-## 9.  [Хранение и передача данных](9. Storage and transmission data.md)
-
-* [Сериализация, десериализация](9. Storage and transmission data.md#1-сериализация-десериализация)
-* [Pickle](9. Storage and transmission data.md#2-pickle)
-* [JSON, JSON-RPC](9. Storage and transmission data.md#3-json-json-rpc)
-* [YAML](9. Storage and transmission data.md#4-yaml)
-* [Практическая работа](9. Storage and transmission data.md#5-практическая-работа)
 
 ## 10. [Базовые алгоритмы](10. Basic algorythms.md)
 
@@ -115,13 +110,14 @@ deserialization.md#2-оператор-контекста-with)
 
 ## 11. [Коллекции, графы и деревья](11. Collections, graphs and trees.md)
 
-* Понятие стэка
-* Понятие очереди
-* Понятие связного (двусвязного) списка
-* Работа со связным (двусвязным) списком
-* Работа со стэком и очередью
-* Деревья, куча (heap)
-* Работа с деревьями
+* [Понятие стэка](11. Collections, graphs and trees.md#1-понятие-стека)
+* [Понятие очереди](11. Collections, graphs and trees.md#2-понятие-очереди)
+* [Понятие дека](11. Collections, graphs and trees.md#3-понятие-дека)
+* [Cамостоятельная работа](11. Collections, graphs and trees.md№4-самостоятельная-работа)
+* [Понятие графа](11. Collections, graphs and trees.md#5-понятие-графа)
+* [Обход графа в глубину](11. Collections, graphs and trees.md#6-обход-графа-в-глубину)
+* [Обход графа в ширину](11. Collections, graphs and trees.md#7-обход-графа-в-ширину)
+* [Алгоритм Дейкстры](11. Collections, graphs and trees.md#8-алгоритм-дейкстры)
 
 ## 12. [Процессы и потоки](12. Processes and streams.md)
 
@@ -132,26 +128,13 @@ deserialization.md#2-оператор-контекста-with)
 * [Примитивы синхронизации (мьютекс, семафор, критическая секция)](12. Processes and streams.md#5-примитивы-синхронизации-мьютекс-семафор-критическая-секция)
 * [Асинхронный код](12. Processes and streams.md#6-асинхронный-код)
 
-## 13. Основы работы с сетью
+## 13. [Основы работы с сетью](13. Networks.md)
 
-* HTTP
-* UDP/TCP
-* Сокеты
-* Flask, Django, aiohttp - цели, разница, преимущества и недостатки
-* Основы работы с Django, Hello world!
-* Концепция MVC
-* Введение в HTML/CSS
-
-## 14. Основы работы с данными
+## 14. [Веб-серверы](14. Web-servers.md)
 
 * Понятие Data Science
 * Веб-скрапинг (scrapy, beautiful soap)
 * numpy, pandas
 * Анализ текста
 
-## 15. Системы баз данных, системы управления базами данных
-
-* БД, СУБД
-* SQL, NoSQL
-* Django + SQL, Django - модели
-* Django-view
+## 15. [Свободный урок]
