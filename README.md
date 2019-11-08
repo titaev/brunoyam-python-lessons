@@ -49,19 +49,26 @@
 9. [Самостоятельная работа](4. Functions.md#9-самостоятельная-работа)
 10. [Домашняя работа](4. Functions.md#10-домашняя-работа)
 
-## 5.  [Изолированное окружение, пакеты, модули, библиотеки](5. Isolated environment, packages, modules, libraries.md)
+## 5.  [Изолированное окружение. Пакеты, модули](5. Isolated environment. Packages, modules.md)
 
-1. [Модули, пакеты и стандартные библиотеки](5. Isolated environment, packages, modules, libraries.md#1-модули-пакеты-и-стандартные-библиотеки)
-2. [Модули os, sys](5. Isolated environment, packages, modules, libraries.md#2-модули-os-sys)
-3. [Менеджер пакетов pip, virtualenv, pipenv](5. Isolated environment, packages, modules, libraries.md#3-менеджер-пакетов-pip-virtualenv-pipenv)
-4. [Домашняя работа](5. Isolated environment, packages, modules, libraries.md#4-домашняя-работа)
+1. [Модули и пакеты](5. Isolated environment. Packages, modules.md#1-модули-и-пакеты)
+2. [Менеджер пакетов pip](5. Isolated environment. Packages, modules.md#2-менеджер-пакетов-pip)
+3. [Virtualenv](5. Isolated environment. Packages, modules.md#3-virtualenv)
+4. [Pipenv](5. Isolated environment. Packages, modules.md#4-pipenv)
+5. [Домашняя работа](5. Isolated environment. Packages, modules.md#5-домашняя-работа)
 
-## 6.  [Файловый ввод-вывод, сериализация/десериализация](6. File system, serialization, deserialization.md)
+## 6.  [Файловый ввод/вывод, сериализация/десериализация](6. File input-output, serialization-deserialization.md)
 
-1. [Работа с файлами](6. File input-output, serialization, deserialization#1-работа-с-файлами)
-2. [Оператор контекста with](6. File input-output, serialization, deserialization.md#2-оператор-контекста-with)
-3. [Сериализация, десериализация](6. File input-output, serialization, deserialization.md#3-сериализация-десериализация)
-4. [Домашняя работа](6. File input-output, serialization, deserialization.md#4-домашняя-работа)
+1. [Символы перевода строки](6. File input-output, serialization-deserialization.md#1-символы-перевода-строки)
+2. [Работа с файлами](6. File input-output, serialization-deserialization.md#2-работа-с-файлами)
+3. [Режимы работы с файлами](6. File input-output, serialization-deserialization.md#3-режимы-работы-с-файлами)
+4. [Указатель](6. File input-output, serialization-deserialization.md#4-указатель)
+5. [Оператор with](6. File input-output, serialization-deserialization.md#2-оператор-with)
+6. [Сериализация, десериализация](6. File input-output, serialization-deserialization.md#6-сериализация-десериализация)
+7. [Pickle](6. File input-output, serialization-deserialization.md#7-pickle)
+8. [JSON](6. File input-output, serialization-deserialization.md#8-json)
+9. [YAML](6. File input-output, serialization-deserialization.md#9-yaml)
+10. [Домашняя работа](6. File input-output, serialization-deserialization.md#10-домашняя-работа)
 
 ## 7.  [Регулярные выражения](7. Regular expressions.md)
 
@@ -73,11 +80,12 @@
 
 ## 8.  [Объектно-ориентированное программирование](8. OOP.md)
 
-1. [Базовые понятия, предпосылки и история](8. OOP.md#1-базовые-понятия-предпосылки-и-история)
-2. [Класс, экземпляр класса, атрибуты, поведение](8. OOP.md#2-класс-экземпляр-класса-атрибуты-поведение)
-3. [Наследование](8. OOP.md#3-наследование)
-4. [Двойное наследование](8. OOP.md#4-двойное-наследование)
-5. [Полиморфизм](8. OOP.md#4-полиморфизм)
+1. [Понятие ООП](8. OOP.md#1-понятие-ооп)
+2. [Класс, объект](8. OOP.md#2-класс-объект)
+3. [Методы, конструктор, деструктор](8. OOP.md#3-методы-конструктор-деструктор)
+4. [Наследование](8. OOP.md#4-наследование)
+5. [Двойное наследование](8. OOP.md#5-двойное-наследование)
+6. [Полиморфизм](8. OOP.md#6-полиморфизм)
 
 ## 9.  [Обработка исключений, паттерны проектирования](8. Processing exclusions, design patterns.md)
 
@@ -136,7 +144,7 @@
 3. [Основные понятия Git](16. Git.md#3-основные-понятия-git)
 4. [Пример слияния веток](16. Git.md#4-пример-слияния-веток)
 5. [Установка Git](16. Git.md#5-установка-git)
-6. [Основы использования командной строки/терминала](16. Git.md#6-основы-использования-командной-строки)
+6. [Основы работы с командной строкой/терминалом](16. Git.md#6-основы-работы-с-командной-строкой-терминалом)
 7. [Создание тестового репозитория](16. Git.md#7-создания-тестового-репозитория)
 8. [Изменение состояния, фиксация](16. Git.md#8-изменение-состояния-фиксация)
 9. [Ветки](16. Git.md#9-ветки)
