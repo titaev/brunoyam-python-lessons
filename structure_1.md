@@ -20,12 +20,14 @@
 ### Закрепление:
 
 ## 3) Переменные, операторы, типы переменных
+
+### Теория:
+
 Теория из пункта 1
 
 Переменная это ссылка на обьект в памяти python. Вопрос к аудитории (во время выполнения это ссылка на обьект в какой памяти? Оперативной)
 
-### Теория:
-
+### Закрепление:
 1) Создадим переменную в IDE и выведем в консоль
 ```python
 my_name = 'Ilya'
@@ -39,8 +41,25 @@ name = 'Oleg'
 print(f'Hello world, my name {my_name}')
 ```
 
+3) Посложнее
+```python
+number = 5 # int
 
-### Закрепление:
+digit = -4.54356876 # float
+word = "Результат:" # string
+boolean = True # bool
+
+str_num = '5' # string
+
+# print(word + str(digit))
+
+print(word + str(number + int(str_num)))
+
+del number
+
+number = 7
+print("Результат:", number)
+```
 
 ## 4)
 
