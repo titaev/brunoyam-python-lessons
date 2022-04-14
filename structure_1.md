@@ -173,6 +173,21 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/2.%20Built-in%20ty
 https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
 ### Закрепление:
+#### Задача 1
+Создайте список [ 18, 14, 10, 6, 2 ]  с помощью функции range()
+
+```python
+lst = []
+
+# Пробегаемся циклом for по последовательности, которую формирует функция range()
+# Начало диапазона: 18
+# Конец диапазона: 1(обратите внимание, что 1 не включается в итоговую последовательность)
+# Шаг: -4(обратный шаг - двигаемся в сторону уменьшения значений)
+for item in range(18, 1, -4):
+    lst.append(item)
+
+print(lst)
+```
 
 
 ## 8) Свои функции 
@@ -182,7 +197,7 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
 ### Закрепление:
-
+#### Задача 1
 Написать функцию month_to_season(), которая принимает 1 аргумент - номер месяца - и возвращает название сезона, к которому относится этот месяц. 
 Например, передаем 2, на выходе получаем 'Зима'.
 ```python
