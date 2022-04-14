@@ -189,6 +189,8 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 https://gitlab.com/OlegYurchik/brunoyam-python-lessons/-/blob/master/16.%20Git.md
 
 ### Закрепление:
+Создадим репо, зальем код, создадим доп ветку dev, сделаем изменения в дев, 
+сделаем пр дев в мастер, 
 
 
 # Самостоятельная работа:
