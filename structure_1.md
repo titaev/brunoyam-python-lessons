@@ -176,13 +176,53 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
 
 ## 8) Свои функции 
+
+### Теория:
 Тот же пункт что и в 7
 https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
-### Теория:
-
 ### Закрепление:
 
+Написать функцию month_to_season(), которая принимает 1 аргумент - номер месяца - и возвращает название сезона, к которому относится этот месяц. 
+Например, передаем 2, на выходе получаем 'Зима'.
+```python
+# Имя функции: month_to_season
+# Параметр: month
+def month_to_season(month):
+
+    # Создание словаря для хранения информации о сезонах
+    # Ключ: кортеж(tuple) из номеров входящих в сезон месяцов
+    # Значение: строка(str)-название сезона
+    season_ranges = {
+        (12, 1, 2): 'Winter',
+        (3, 4, 5): 'Spring',
+        (6, 7, 8): 'Summer',
+        (9, 10, 11): 'Autumn'
+    }
+    # Создание переменной для возвращаемого значения функции
+    season = None
+
+    # Цикл, в котором по очереди перебираются пары ключ-значение(номера месяцев - сезон) из словаря
+    for key, value in season_ranges.items():
+        # Если значение входного параметра(номер месяца) входит в состав ключа(пример ключа - (3, 4, 5))
+        if month in key:
+            # То присваиваем возвращаемой переменной season название сезона
+            season = value
+            # Останавливаем цикл
+            break
+            
+    # Возвращаем название сезона
+    return season
+
+
+# Проверяем работу функции
+print(month_to_season(1))
+print(month_to_season(5))
+print(month_to_season(8))
+print(month_to_season(9))
+print(month_to_season(12))
+print(month_to_season(999))
+```
 ## 8) Система контроля версий. Git
 
 ### Теория:
@@ -204,6 +244,7 @@ https://gitlab.com/OlegYurchik/brunoyam-python-lessons/-/blob/master/16.%20Git.m
    3) '*' Умножить
    4) '/' Разделить
    5) В остальных случаях функция должна возвращать "Операция не поддерживается"
+   
 ```python
 def calc(a, b, operation):
     # Задаем дефолтное значение возвращаемого результата
