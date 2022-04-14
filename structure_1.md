@@ -170,10 +170,14 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/2.%20Built-in%20ty
 ## 7) Стандартные функции
 
 ### Теория:
+https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
 ### Закрепление:
 
+
 ## 8) Свои функции 
+Тот же пункт что и в 7
+https://github.com/titaev/brunoyam-python-lessons/blob/master/4.%20Functions.md
 
 ### Теория:
 
@@ -182,6 +186,7 @@ https://github.com/titaev/brunoyam-python-lessons/blob/master/2.%20Built-in%20ty
 ## 8) Система контроля версий. Git
 
 ### Теория:
+https://gitlab.com/OlegYurchik/brunoyam-python-lessons/-/blob/master/16.%20Git.md
 
 ### Закрепление:
 
