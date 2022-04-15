@@ -14,7 +14,7 @@
 ## 2) Базовый синтаксис
 
 ### Теория:
-Пункт 1.7 синтаксис python. Пробелы, PEP8 и тд
+Пункт 1.7 синтаксис python. Пробелы и тд
 https://github.com/titaev/brunoyam-python-lessons/blob/master/1.%20Introduction%20to%20Python.md
 
 
