@@ -15,6 +15,7 @@
 
 ### Теория:
 Пункт 1.7 синтаксис python. Пробелы, PEP8 и тд
+https://github.com/titaev/brunoyam-python-lessons/blob/master/1.%20Introduction%20to%20Python.md
 
 
 ### Закрепление:
@@ -24,6 +25,7 @@
 ### Теория:
 
 Теория из пункта 1
+https://github.com/titaev/brunoyam-python-lessons/blob/master/1.%20Introduction%20to%20Python.md
 
 Переменная это ссылка на обьект в памяти python. Вопрос к аудитории (во время выполнения это ссылка на обьект в какой памяти? Оперативной)
 
