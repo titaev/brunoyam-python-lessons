@@ -16,6 +16,9 @@
 ### Теория:
 Пункт 1.7 синтаксис python. Пробелы и тд
 https://github.com/titaev/brunoyam-python-lessons/blob/master/1.%20Introduction%20to%20Python.md
+Есть обязательный синтаксис чтобы python в целом работал
+
+Также есть соглашения по стилю напсиания кода для читабельности поддержки и тд PEP8
 
 
 ### Закрепление:
