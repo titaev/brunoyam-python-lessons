@@ -22,6 +22,7 @@ def CalcSumNumbers(A):
         # Прибавить к общей сумме первый элемент
         summ = summ + A[0]
 
-        return summ ```
+        return summ 
+```
 
 ### Однострочные выражения python
