@@ -30,4 +30,5 @@ def CalcSumNumbers(A):
 - только переменная с if
 -
 
-### Модули https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
+### Модули 
+https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
