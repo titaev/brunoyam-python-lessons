@@ -28,3 +28,6 @@ def CalcSumNumbers(A):
 ### Однострочные выражения python
 - Синтаксический сахар
 - только переменная с if
+-
+
+### Модули https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
