@@ -31,6 +31,7 @@ def CalcSumNumbers(A):
 -
 
 ### Модули 
+Только импорт модулей и стандартные библиотеки без венв и пип
 https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
 
 https://github.com/titaev/brunoyam-python-lessons/blob/master/5.%20Isolated%20environment.%20Packages%2C%20modules.md
