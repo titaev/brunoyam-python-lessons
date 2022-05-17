@@ -45,3 +45,32 @@ def binary_search_iterative(array, element):
         else:
             start = mid + 1
     return -1
+
+
+# Sort
+sort_list = [2, 35, 4, 23, 3, 1]
+
+
+def buble_sort(sort_list):
+    # print(range(len(sort_list) - 1))
+    for i in range(len(sort_list) - 1):
+        for j in range(len(sort_list) - i - 1):
+            if sort_list[j] > sort_list[j+1]:
+                sort_list[j], sort_list[j+1] = sort_list[j+1], sort_list[j]
+    return sort_list
+
+# print(buble_sort(sort_list))
+buble_sort(sort_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
