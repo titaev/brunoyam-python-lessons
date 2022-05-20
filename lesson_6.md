@@ -50,5 +50,5 @@ print("Object created", s)
 s1 = Singleton()
 print("Object created", s1)
 ```
-
+- Фабрика (в папке паттерны) 
 
