@@ -1,3 +1,6 @@
+git config --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+
 # Уроки Python
 
 ## 1.  [Введение в Python](1. Introduction to Python.md)
