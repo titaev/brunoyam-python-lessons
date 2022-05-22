@@ -10,12 +10,11 @@ def search_in_depth():
     pass
 
 
-visited = []  # List to keep track of visited nodes.
-queue = []   # Initialize a queue
+visited = []  # List to keep track of visited nodes.   # Initialize a queue
 
 
 def search_in_width(visited, graph, node):
-    global queue
+    queue = []
     visited.append(node)
     queue.append(node)
     while queue:
